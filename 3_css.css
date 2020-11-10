@@ -3,15 +3,15 @@
 #id-selector{
   background: #00ffff;
 }
-/*X selector*/
-div.xtype-selector div {
-  color: #556b2f;
-}
 
 /*X Selector. Color hexadecimal*/
-
 #x-container li.warning {
   color: red;
+}
+
+/*X selector*/
+div.xtype-selector div {
+    color: #556b2f;
 }
 
  /*X Y Selector. Color rgb*/
