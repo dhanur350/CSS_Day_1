@@ -5,7 +5,7 @@
 }
 /*X selector*/
 div.xtype-selector div {
-  border: 1px solid red;
+  color: #556b2f;
 }
 
 /*X Selector. Color hexadecimal*/
@@ -20,7 +20,7 @@ div.xtype-selector div {
 }
 
 #direct-container > ul{
-  border: 2px solid #008000;
+  color: #008000;
 }
 
 /*X[title] Selector. Color rgba*/
